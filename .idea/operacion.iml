@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/convertapi/convertapi-php" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/ezyang/htmlpurifier" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/groupdocscloud/groupdocs-conversion-cloud" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/gufy/pdftohtml-php" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/illuminate/config" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/illuminate/contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/illuminate/support" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/maennchen/zipstream-php" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/markbaker/complex" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/markbaker/matrix" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/mpdf/mpdf" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/mpdf/psr-http-message-shim" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/mpdf/psr-log-aware-trait" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/myclabs/php-enum" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/paquettg/php-html-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/paquettg/string-encode" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/phpoffice/phpspreadsheet" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/psr/clock" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/setasign/fpdi" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/sunra/php-simple-html-dom-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/api/vendor/symfony/translation-contracts" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

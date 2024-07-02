@@ -1,0 +1,21 @@
+{
+    "name": "g532/evidencias",
+    "authors": [
+        {
+            "name": "Anton Babeshko",
+            "email": "antonwo7@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-json": "*",
+        "ext-curl": "*",
+        "ext-iconv": "*",
+        "ext-calendar": "*",
+        "sunra/php-simple-html-dom-parser": "^1.5",
+        "groupdocscloud/groupdocs-conversion-cloud": "^23.2",
+        "mpdf/mpdf": "^8.1",
+        "phpoffice/phpspreadsheet": "^1.29",
+        "gufy/pdftohtml-php": "~2",
+        "convertapi/convertapi-php": "^1.7"
+    }
+}
